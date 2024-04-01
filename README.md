@@ -34,14 +34,3 @@ Proyek ini merupakan aplikasi buku alamat yang dikembangkan menggunakan HTML, CS
 3. **Menghapus Kontak**:
    - Klik kontak yang ingin Anda hapus dari daftar kontak.
    - Klik tombol "Hapus" untuk menghapus kontak dari buku alamat.
-
-### Kontribusi
-
-Kontribusi untuk proyek ini sangat dipersilakan. Jika Anda ingin berkontribusi, ikuti langkah-langkah ini:
-
-1. Fork repositori.
-2. Buat cabang baru (`git checkout -b fitur/perbaikan`).
-3. Lakukan perubahan Anda.
-4. Commit perubahan Anda (`git commit -am 'Menambahkan fitur baru'`).
-5. Push ke cabang (`git push origin fitur/perbaikan`).
-6. Buat Pull Request baru.
