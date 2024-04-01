@@ -17,7 +17,6 @@ Proyek ini merupakan aplikasi buku alamat yang dikembangkan menggunakan HTML, CS
 - CSS3: Memperindah antarmuka pengguna dan meningkatkan pengalaman pengguna.
 - JavaScript: Menyediakan fungsionalitas interaktif dan logika.
 - Backbone.js: Kerangka kerja JavaScript yang digunakan untuk membangun aplikasi satu halaman.
-- Backbone.localStorage: Digunakan untuk menyimpan kontak secara lokal dalam browser.
 
 ### Penggunaan
 
